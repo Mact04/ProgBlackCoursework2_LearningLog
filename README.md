@@ -2,6 +2,7 @@
 ## Header 2
 ### Header 3
 etc
+---
 *italics*
 **bold**
----
+[Google's Homepage](https://google.com)
